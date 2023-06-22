@@ -1,0 +1,407 @@
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/04/2018 15:04:03	6416	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/04/2018 15:04:03	6416	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/04/2018 15:04:03	6416	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/04/2018 15:04:03	6416	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/04/2018 15:04:03	6416	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/04/2018 15:04:04	6416	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/04/2018 15:04:04	6416	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/04/2018 15:04:04	6416	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/04/2018 15:04:07	6416	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/04/2018 15:04:07	6416	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/04/2018 15:04:07	6416	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/04/2018 15:04:07	6416	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/04/2018 15:04:08	6416	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/04/2018 15:08:25	6224	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/04/2018 15:08:26	6224	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/04/2018 15:08:26	6224	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/04/2018 15:08:26	6224	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/04/2018 15:08:26	6224	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/04/2018 15:08:26	6224	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/04/2018 15:08:26	6224	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/04/2018 15:08:26	6224	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/04/2018 15:08:30	6224	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/04/2018 15:08:31	6224	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/04/2018 15:08:31	6224	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/04/2018 15:08:31	6224	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/04/2018 15:08:31	6224	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/11/2018 22:43:21	6704	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/11/2018 22:43:21	6704	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/11/2018 22:43:21	6704	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/11/2018 22:43:21	6704	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/11/2018 22:43:21	6704	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/11/2018 22:43:21	6704	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/11/2018 22:43:21	6704	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/11/2018 22:43:22	6704	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/11/2018 22:43:28	6704	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/11/2018 22:43:29	6704	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/11/2018 22:43:29	6704	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/11/2018 22:43:29	6704	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/11/2018 22:43:30	6704	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+04/27/2019 10:47:29	7708	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+04/27/2019 10:47:30	7708	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+04/27/2019 10:47:30	7708	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+04/27/2019 10:47:30	7708	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+04/27/2019 10:47:30	7708	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+04/27/2019 10:47:30	7708	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+04/27/2019 10:47:30	7708	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+04/27/2019 10:47:32	7708	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+04/27/2019 10:47:47	7708	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+04/27/2019 10:47:48	7708	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+04/27/2019 10:47:48	7708	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+04/27/2019 10:47:48	7708	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+04/27/2019 10:47:50	7708	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/17/2019 17:19:10	7536	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/17/2019 17:19:10	7536	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/17/2019 17:19:10	7536	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/17/2019 17:19:10	7536	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/17/2019 17:19:10	7536	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/17/2019 17:19:10	7536	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/17/2019 17:19:10	7536	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/17/2019 17:19:12	7536	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/17/2019 17:19:21	7536	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/17/2019 17:19:21	7536	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/17/2019 17:19:21	7536	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/17/2019 17:19:21	7536	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/17/2019 17:19:39	7536	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/18/2019 05:03:23	8840	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/18/2019 05:03:23	8840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/18/2019 05:03:23	8840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/18/2019 05:03:27	8840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/18/2019 05:03:27	8840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/18/2019 05:03:27	8840	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/18/2019 05:03:27	8840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/18/2019 05:03:29	8840	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/18/2019 05:03:38	8840	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/18/2019 05:03:39	8840	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/18/2019 05:03:39	8840	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/18/2019 05:03:39	8840	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/18/2019 05:03:40	8840	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+10/18/2019 05:17:05	8840	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStopInternal
+10/18/2019 05:17:05	8840	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Shutdown AD notifications.
+10/18/2019 05:17:05	8840	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Success.
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/18/2019 05:48:57	7036	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/18/2019 05:48:57	7036	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/18/2019 05:48:57	7036	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/18/2019 05:48:57	7036	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/18/2019 05:48:57	7036	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/18/2019 05:48:57	7036	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/18/2019 05:48:58	7036	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/18/2019 05:48:58	7036	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/18/2019 05:49:01	7036	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/18/2019 05:49:02	7036	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/18/2019 05:49:02	7036	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/18/2019 05:49:02	7036	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/18/2019 05:49:04	7036	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/18/2019 14:50:11	7916	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/18/2019 14:50:12	7916	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/18/2019 14:50:12	7916	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/18/2019 14:50:12	7916	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/18/2019 14:50:12	7916	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/18/2019 14:50:12	7916	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/18/2019 14:50:12	7916	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/18/2019 14:50:13	7916	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/18/2019 14:50:20	7916	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/18/2019 14:50:20	7916	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/18/2019 14:50:21	7916	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/18/2019 14:50:21	7916	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/18/2019 14:50:24	7916	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+10/18/2019 14:59:35	7916	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStopInternal
+10/18/2019 14:59:35	7916	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Shutdown AD notifications.
+10/18/2019 14:59:35	7916	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Success.
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/18/2019 15:32:06	14376	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/18/2019 15:32:07	14376	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/18/2019 15:32:07	14376	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/18/2019 15:32:07	14376	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/18/2019 15:32:07	14376	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/18/2019 15:32:07	14376	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/18/2019 15:32:07	14376	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/18/2019 15:32:07	14376	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/18/2019 15:32:10	14376	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/18/2019 15:32:11	14376	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/18/2019 15:32:11	14376	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/18/2019 15:32:11	14376	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/18/2019 15:32:11	14376	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/18/2019 15:38:41	7936	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/18/2019 15:38:42	7936	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/18/2019 15:38:42	7936	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/18/2019 15:38:42	7936	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/18/2019 15:38:42	7936	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/18/2019 15:38:42	7936	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/18/2019 15:38:42	7936	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/18/2019 15:38:43	7936	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/18/2019 15:38:49	7936	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/18/2019 15:38:49	7936	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/18/2019 15:38:50	7936	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/18/2019 15:38:50	7936	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/18/2019 15:38:54	7936	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+11/30/2019 09:17:33	6840	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+11/30/2019 09:17:33	6840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+11/30/2019 09:17:33	6840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+11/30/2019 09:17:33	6840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+11/30/2019 09:17:33	6840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+11/30/2019 09:17:34	6840	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+11/30/2019 09:17:34	6840	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+11/30/2019 09:17:35	6840	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+11/30/2019 09:17:45	6840	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+11/30/2019 09:17:45	6840	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+11/30/2019 09:17:45	6840	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+11/30/2019 09:17:45	6840	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+11/30/2019 09:17:48	6840	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+01/25/2020 07:45:53	7480	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+01/25/2020 07:45:54	7480	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+01/25/2020 07:45:54	7480	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+01/25/2020 07:45:54	7480	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+01/25/2020 07:45:54	7480	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+01/25/2020 07:45:54	7480	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+01/25/2020 07:45:54	7480	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+01/25/2020 07:45:55	7480	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+01/25/2020 07:46:04	7480	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+01/25/2020 07:46:04	7480	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+01/25/2020 07:46:04	7480	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+01/25/2020 07:46:04	7480	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+01/25/2020 07:46:06	7480	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/02/2020 13:19:29	10280	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/02/2020 13:19:29	10280	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/02/2020 13:19:29	10280	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/02/2020 13:19:29	10280	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/02/2020 13:19:29	10280	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/02/2020 13:19:30	10280	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/02/2020 13:19:30	10280	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/02/2020 13:19:32	10280	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/02/2020 13:19:44	10280	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/02/2020 13:19:45	10280	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/02/2020 13:19:45	10280	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/02/2020 13:19:45	10280	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/02/2020 13:19:51	10280	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/26/2020 08:04:40	31952	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/26/2020 08:04:41	31952	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/26/2020 08:04:41	31952	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/26/2020 08:04:41	31952	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/26/2020 08:04:41	31952	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/26/2020 08:04:41	31952	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/26/2020 08:04:41	31952	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/26/2020 08:04:41	31952	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/26/2020 08:04:45	31952	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/26/2020 08:04:45	31952	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/26/2020 08:04:46	31952	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/26/2020 08:04:46	31952	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/26/2020 08:04:52	31952	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+11/11/2020 02:24:18	3644	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+11/11/2020 02:24:18	3644	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+11/11/2020 02:24:18	3644	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+11/11/2020 02:24:18	3644	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+11/11/2020 02:24:18	3644	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+11/11/2020 02:24:18	3644	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+11/11/2020 02:24:18	3644	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+11/11/2020 02:24:20	3644	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+11/11/2020 02:24:35	3644	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+11/11/2020 02:24:35	3644	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+11/11/2020 02:24:36	3644	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+11/11/2020 02:24:36	3644	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+11/11/2020 02:24:39	3644	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+11/14/2020 07:15:06	3644	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStopInternal
+11/14/2020 07:15:06	3644	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Shutdown AD notifications.
+11/14/2020 07:15:07	3644	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Success.
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+11/14/2020 07:18:41	9420	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+11/14/2020 07:18:41	9420	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+11/14/2020 07:18:41	9420	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+11/14/2020 07:18:41	9420	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+11/14/2020 07:18:41	9420	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+11/14/2020 07:18:41	9420	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+11/14/2020 07:18:41	9420	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+11/14/2020 07:18:42	9420	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+11/14/2020 07:18:50	9420	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+11/14/2020 07:18:50	9420	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+11/14/2020 07:18:50	9420	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+11/14/2020 07:18:50	9420	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+11/14/2020 07:18:51	9420	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+03/06/2021 12:18:29	7540	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+03/06/2021 12:18:29	7540	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+03/06/2021 12:18:29	7540	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+03/06/2021 12:18:30	7540	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+03/06/2021 12:18:30	7540	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+03/06/2021 12:18:31	7540	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+03/06/2021 12:18:31	7540	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+03/06/2021 12:18:32	7540	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+03/06/2021 12:18:39	7540	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+03/06/2021 12:18:39	7540	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+03/06/2021 12:18:39	7540	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+03/06/2021 12:18:39	7540	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+03/06/2021 12:18:42	7540	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+03/06/2021 12:33:25	7868	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+03/06/2021 12:33:25	7868	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+03/06/2021 12:33:25	7868	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+03/06/2021 12:33:25	7868	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+03/06/2021 12:33:25	7868	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+03/06/2021 12:33:26	7868	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+03/06/2021 12:33:26	7868	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+03/06/2021 12:33:26	7868	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+03/06/2021 12:33:51	7868	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+03/06/2021 12:33:51	7868	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+03/06/2021 12:33:51	7868	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+03/06/2021 12:33:51	7868	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+03/06/2021 12:33:54	7868	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+03/06/2021 12:43:53	7868	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStopInternal
+03/06/2021 12:43:53	7868	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Shutdown AD notifications.
+03/06/2021 12:43:53	7868	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Success.
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+03/06/2021 13:22:52	4924	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+03/06/2021 13:22:53	4924	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+03/06/2021 13:22:53	4924	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+03/06/2021 13:22:53	4924	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+03/06/2021 13:22:53	4924	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+03/06/2021 13:22:53	4924	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+03/06/2021 13:22:53	4924	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+03/06/2021 13:22:53	4924	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+03/06/2021 13:22:57	4924	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+03/06/2021 13:22:57	4924	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+03/06/2021 13:22:57	4924	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+03/06/2021 13:22:57	4924	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+03/06/2021 13:22:57	4924	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+03/06/2021 13:32:33	7444	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+03/06/2021 13:32:34	7444	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+03/06/2021 13:32:34	7444	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+03/06/2021 13:32:34	7444	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+03/06/2021 13:32:34	7444	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+03/06/2021 13:32:34	7444	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+03/06/2021 13:32:34	7444	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+03/06/2021 13:32:36	7444	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+03/06/2021 13:33:01	7444	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+03/06/2021 13:33:02	7444	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+03/06/2021 13:33:02	7444	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+03/06/2021 13:33:02	7444	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+03/06/2021 13:33:08	7444	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+03/06/2021 13:51:12	7444	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStopInternal
+03/06/2021 13:51:12	7444	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Shutdown AD notifications.
+03/06/2021 13:51:12	7444	Microsoft.Exchange.UM.CallRouter: OnStopInternal: Success.
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+03/06/2021 14:06:15	11576	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+03/06/2021 14:06:16	11576	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+03/06/2021 14:06:16	11576	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+03/06/2021 14:06:16	11576	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+03/06/2021 14:06:16	11576	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+03/06/2021 14:06:16	11576	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+03/06/2021 14:06:16	11576	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+03/06/2021 14:06:16	11576	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+03/06/2021 14:06:20	11576	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+03/06/2021 14:06:20	11576	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+03/06/2021 14:06:20	11576	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+03/06/2021 14:06:20	11576	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+03/06/2021 14:06:20	11576	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+03/06/2021 14:20:03	7524	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+03/06/2021 14:20:04	7524	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+03/06/2021 14:20:04	7524	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+03/06/2021 14:20:04	7524	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+03/06/2021 14:20:04	7524	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+03/06/2021 14:20:04	7524	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+03/06/2021 14:20:04	7524	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+03/06/2021 14:20:06	7524	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+03/06/2021 14:20:29	7524	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+03/06/2021 14:20:29	7524	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+03/06/2021 14:20:30	7524	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+03/06/2021 14:20:30	7524	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+03/06/2021 14:20:34	7524	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+07/03/2021 08:51:24	7928	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+07/03/2021 08:51:24	7928	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+07/03/2021 08:51:24	7928	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+07/03/2021 08:51:24	7928	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+07/03/2021 08:51:24	7928	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+07/03/2021 08:51:24	7928	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+07/03/2021 08:51:24	7928	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+07/03/2021 08:51:26	7928	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+07/03/2021 08:51:41	7928	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+07/03/2021 08:51:41	7928	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+07/03/2021 08:51:42	7928	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+07/03/2021 08:51:42	7928	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+07/03/2021 08:51:45	7928	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+07/25/2021 17:18:39	11268	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+07/25/2021 17:18:39	11268	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+07/25/2021 17:18:39	11268	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+07/25/2021 17:18:39	11268	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+07/25/2021 17:18:39	11268	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+07/25/2021 17:18:40	11268	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+07/25/2021 17:18:40	11268	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+07/25/2021 17:18:40	11268	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+07/25/2021 17:18:44	11268	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+07/25/2021 17:18:44	11268	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+07/25/2021 17:18:44	11268	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+07/25/2021 17:18:44	11268	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+07/25/2021 17:18:46	11268	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+07/25/2021 18:08:02	12860	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+07/25/2021 18:08:02	12860	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+07/25/2021 18:08:02	12860	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+07/25/2021 18:08:02	12860	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+07/25/2021 18:08:02	12860	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+07/25/2021 18:08:02	12860	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+07/25/2021 18:08:02	12860	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+07/25/2021 18:08:03	12860	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+07/25/2021 18:08:06	12860	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+07/25/2021 18:08:07	12860	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+07/25/2021 18:08:07	12860	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+07/25/2021 18:08:07	12860	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+07/25/2021 18:08:08	12860	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/20/2021 06:26:47	7408	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/20/2021 06:26:47	7408	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/20/2021 06:26:47	7408	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/20/2021 06:26:47	7408	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/20/2021 06:26:47	7408	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/20/2021 06:26:47	7408	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/20/2021 06:26:47	7408	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/20/2021 06:26:48	7408	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/20/2021 06:26:57	7408	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/20/2021 06:26:57	7408	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/20/2021 06:26:57	7408	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/20/2021 06:26:57	7408	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/20/2021 06:26:59	7408	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/20/2021 09:18:43	11404	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/20/2021 09:18:44	11404	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/20/2021 09:18:44	11404	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/20/2021 09:18:44	11404	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/20/2021 09:18:44	11404	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/20/2021 09:18:44	11404	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/20/2021 09:18:44	11404	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/20/2021 09:18:45	11404	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/20/2021 09:19:01	11404	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/20/2021 09:19:01	11404	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/20/2021 09:19:01	11404	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/20/2021 09:19:01	11404	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/20/2021 09:19:04	11404	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
+--- Starting new process log for Microsoft.Exchange.UM.CallRouter ---
+10/20/2021 11:52:43	9784	Microsoft.Exchange.UM.CallRouter: UMCallRouter::Main
+10/20/2021 11:52:43	9784	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize
+10/20/2021 11:52:43	9784	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Removed unnecessary privileges
+10/20/2021 11:52:43	9784	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Initialized Watson.
+10/20/2021 11:52:43	9784	Microsoft.Exchange.UM.CallRouter: UMAbstractService::Initialize: Register for Unhandled Exceptions
+10/20/2021 11:52:43	9784	Microsoft.Exchange.UM.CallRouter: Initialize: Initialized single performance counters.
+10/20/2021 11:52:43	9784	Microsoft.Exchange.UM.CallRouter: UMAbstractService::C'tor
+10/20/2021 11:52:44	9784	Microsoft.Exchange.UM.CallRouter: UMServiceBase::OnStartInternal
+10/20/2021 11:52:55	9784	Microsoft.Exchange.UM.CallRouter: UMServiceBase::StartService
+10/20/2021 11:52:55	9784	Microsoft.Exchange.UM.CallRouter: StartService: Initialized the UMRecycler config.
+10/20/2021 11:52:55	9784	Microsoft.Exchange.UM.CallRouter: StartService: Initialized SipPeerManager.
+10/20/2021 11:52:55	9784	Microsoft.Exchange.UM.CallRouter: StartService: Verified DatacenterMandatorySettings
+10/20/2021 11:52:57	9784	Microsoft.Exchange.UM.CallRouter: OnStartInternal: Service Started Sucessfully
